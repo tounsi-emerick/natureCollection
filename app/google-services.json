@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990219484523",
+    "project_id": "naturecollection-d95f1",
+    "storage_bucket": "naturecollection-d95f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990219484523:android:c849f02ffb188bee08a02e",
+        "android_client_info": {
+          "package_name": "com.graven.naturecollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990219484523-ji4cmvktmts0fpo0bodm56klsh16did7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJB_LgGcxpKcur09gt0m9W7hlsgPrMc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990219484523-ji4cmvktmts0fpo0bodm56klsh16did7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
